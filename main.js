@@ -6,12 +6,12 @@ function preload() {
 }
 
 function setup() {
-    canvas = createCanvas(480, 380);
+    canvas = createCanvas(426, 240);
     canvas.center();
 }
 
 function draw() {
-    image(video, 0, 0, 480, 380);
+    image(video, 0, 0, 426, 240);
 }
 
 function start() {
