@@ -2,7 +2,7 @@ objects = [];
 status = "";
 
 function preload(){
-  video = createVideo('video.mp4');
+  video = createVideo('carshowvideo_trimmed.mp4');
 }
 
 
